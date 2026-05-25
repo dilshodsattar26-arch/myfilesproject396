@@ -1,0 +1,8 @@
+{
+    "name": "datacontroller-service",
+    "version": "1.0.396",
+    "private": false,
+    "environment": "production",
+    "build_id": 984,
+    "allow_public_access": true
+}
